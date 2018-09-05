@@ -347,11 +347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj",
+      "projectUniqueName": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj",
       "projectName": "ClientMobile",
-      "projectPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj",
+      "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj",
       "packagesPath": "/Users/legerdjiba/.nuget/packages/",
-      "outputPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile/obj",
+      "outputPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

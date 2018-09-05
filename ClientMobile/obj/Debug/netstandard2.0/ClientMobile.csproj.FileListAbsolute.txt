@@ -10,3 +10,15 @@
 /Users/legerdjiba/Projects/ApiCore/ClientMobile/bin/Debug/netstandard2.0/Newtonsoft.Json.xml
 /Users/legerdjiba/Projects/ApiCore/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.csprojAssemblyReference.cache
 /Users/legerdjiba/Projects/ApiCore/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.csproj.CopyComplete
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/bin/Debug/netstandard2.0/ClientMobile.deps.json
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/bin/Debug/netstandard2.0/ClientMobile.dll
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/bin/Debug/netstandard2.0/ClientMobile.pdb
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/bin/Debug/netstandard2.0/Newtonsoft.Json.dll
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/bin/Debug/netstandard2.0/Newtonsoft.Json.xml
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.csprojAssemblyReference.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.csproj.CoreCompileInputs.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.AssemblyInfoInputs.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.AssemblyInfo.cs
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.csproj.CopyComplete
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.dll
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/obj/Debug/netstandard2.0/ClientMobile.pdb

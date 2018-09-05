@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/legerdjiba/Projects/ApiCore/ApiCore/ApiCore.csproj",
+      "projectUniqueName": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/ApiCore.csproj",
       "projectName": "ApiCore",
-      "projectPath": "/Users/legerdjiba/Projects/ApiCore/ApiCore/ApiCore.csproj",
+      "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/ApiCore.csproj",
       "packagesPath": "/Users/legerdjiba/.nuget/packages/",
-      "outputPath": "/Users/legerdjiba/Projects/ApiCore/ApiCore/obj",
+      "outputPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.iOS/ClientMobile.iOS.csproj",
+      "projectUniqueName": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.iOS/ClientMobile.iOS.csproj",
       "projectName": "ClientMobile.iOS",
-      "projectPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.iOS/ClientMobile.iOS.csproj",
+      "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.iOS/ClientMobile.iOS.csproj",
       "packagesPath": "/Users/legerdjiba/.nuget/packages/",
-      "outputPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.iOS/obj",
+      "outputPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/legerdjiba/.config/NuGet/NuGet.Config"
@@ -738,8 +738,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj": {
-              "projectPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj"
+            "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj": {
+              "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj"
             }
           }
         }

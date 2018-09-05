@@ -764,11 +764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.Android/ClientMobile.Android.csproj",
+      "projectUniqueName": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.Android/ClientMobile.Android.csproj",
       "projectName": "ClientMobile.Android",
-      "projectPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.Android/ClientMobile.Android.csproj",
+      "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.Android/ClientMobile.Android.csproj",
       "packagesPath": "/Users/legerdjiba/.nuget/packages/",
-      "outputPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile.Android/obj",
+      "outputPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/legerdjiba/.config/NuGet/NuGet.Config"
@@ -782,8 +782,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj": {
-              "projectPath": "/Users/legerdjiba/Projects/ApiCore/ClientMobile/ClientMobile.csproj"
+            "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj": {
+              "projectPath": "/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ClientMobile/ClientMobile.csproj"
             }
           }
         }

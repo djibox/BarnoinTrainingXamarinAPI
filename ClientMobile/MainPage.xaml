@@ -3,16 +3,7 @@
     <ContentPage.Content>
          <StackLayout Padding="20" Spacing="10">
         <StackLayout Orientation="Horizontal">
-             <Image Source="logo.jpg" 
-                    HeightRequest="100" 
-                    WidthRequest="100" 
-                    VerticalOptions="FillAndExpand" 
-                    HorizontalOptions="FillAndExpand"/>
-             <Image Source="Chis.jpg" 
-                    HeightRequest="100" 
-                    WidthRequest="100" 
-                    VerticalOptions="FillAndExpand" 
-                    HorizontalOptions="FillAndExpand"/>
+   <Label Text="Bienvenue dans notre univers" />
         </StackLayout>
             
             <Label Text="Measuring Digital Customer Experience" 

@@ -9,3 +9,14 @@
 /Users/legerdjiba/Projects/ApiCore/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.dll
 /Users/legerdjiba/Projects/ApiCore/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.pdb
 /Users/legerdjiba/Projects/ApiCore/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.csprojAssemblyReference.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/bin/Debug/netcoreapp2.0/ApiCore.deps.json
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/bin/Debug/netcoreapp2.0/ApiCore.runtimeconfig.json
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/bin/Debug/netcoreapp2.0/ApiCore.runtimeconfig.dev.json
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/bin/Debug/netcoreapp2.0/ApiCore.dll
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/bin/Debug/netcoreapp2.0/ApiCore.pdb
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.csprojAssemblyReference.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.csproj.CoreCompileInputs.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.AssemblyInfoInputs.cache
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.AssemblyInfo.cs
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.dll
+/Users/legerdjiba/Repo/BarnoinTrainingXamarinAPI/ApiCore/obj/Debug/netcoreapp2.0/ApiCore.pdb
