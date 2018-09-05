@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ClientMobile" x:Class="ClientMobile.MainPage">
+    <ContentPage.Content>
+         <StackLayout Padding="20" Spacing="10">
+        <StackLayout Orientation="Horizontal">
+             <Image Source="logo.jpg" 
+                    HeightRequest="100" 
+                    WidthRequest="100" 
+                    VerticalOptions="FillAndExpand" 
+                    HorizontalOptions="FillAndExpand"/>
+             <Image Source="Chis.jpg" 
+                    HeightRequest="100" 
+                    WidthRequest="100" 
+                    VerticalOptions="FillAndExpand" 
+                    HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+            
+            <Label Text="Measuring Digital Customer Experience" 
+             HorizontalTextAlignment="Center" 
+             FontSize="30" 
+             TextColor="Blue"/>
+                <StackLayout Orientation="Horizontal">
+      <Button x:Name="btnUpdate" 
+              Text="Simplicity" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_2" 
+              BackgroundColor="Teal"   
+              TextColor="White" />
+      <Button x:Name="btnList" 
+              Text="Speed" 
+              Clicked="Handle_Clicked" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              BackgroundColor="Gray" 
+              TextColor="White" /> 
+                </StackLayout>
+            <StackLayout Orientation="Horizontal">
+      <Button x:Name="btnCreate" 
+              Text="Easiness" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_1" 
+              BackgroundColor="Maroon" 
+              TextColor="White"/>  
+      <Button x:Name="btnInnov" 
+              Text="Innovation" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_3" 
+              BackgroundColor="Navy" 
+              TextColor="White" /> 
+                </StackLayout>
+            <StackLayout Orientation="Horizontal">
+      <Button x:Name="btncollab" 
+              Text="Collaboration" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_4" 
+              BackgroundColor="Olive" 
+              TextColor="White" /> 
+      <Button x:Name="btnKnowShare" 
+              Text="Knowledge sharing"
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_5" 
+              BackgroundColor="Silver" 
+              TextColor="White"/>  
+                </StackLayout>
+            <StackLayout Orientation="Horizontal">
+      <Button x:Name="btnMobility" 
+              Text="Mobility" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_6" 
+              BackgroundColor="Blue" 
+              TextColor="White" /> 
+      <Button x:Name="btnAgility" 
+              Text="Agility" 
+              VerticalOptions="FillAndExpand" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_7" 
+              BackgroundColor="Black" 
+              TextColor="White"/>  
+                </StackLayout>
+      <Button x:Name="btnAnaReport" 
+              Text="Analytics/Reporting" 
+              HorizontalOptions="FillAndExpand"
+              Clicked="Handle_Clicked_8" 
+              BackgroundColor="Red" 
+              TextColor="White"/>  
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
